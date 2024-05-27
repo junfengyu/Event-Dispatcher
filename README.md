@@ -19,14 +19,6 @@ EventDispatcher is a C++ event dispatch system that uses a custom base class wit
 - C++17 compatible compiler
 - CMake 3.10 or higher
 
-## Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/EventDispatcher.git
-cd EventDispatcher
-```
 
 ### Build the Project
 
