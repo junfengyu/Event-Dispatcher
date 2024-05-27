@@ -6,6 +6,7 @@ public:
         auto eventData = std::dynamic_pointer_cast<EventDataA>(data);
         if (eventData) {
             eventData->extractData();
+            // do the job on event data
         }
     }
 };
@@ -16,6 +17,7 @@ public:
         auto eventData = std::dynamic_pointer_cast<EventDataB>(data);
         if (eventData) {
             eventData->extractData();
+            // do the job on event data
         }
     }
 };
@@ -26,6 +28,7 @@ public:
         auto eventData = std::dynamic_pointer_cast<EventDataC>(data);
         if (eventData) {
             eventData->extractData();
+            // do the job on event data
         }
     }
 };
