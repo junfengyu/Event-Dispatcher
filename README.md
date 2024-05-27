@@ -180,4 +180,4 @@ int main() {
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This `README.md` provides an overview of the project, instructions for building and running the project, and a brief guide on how to use the `EventDispatcher` class. It also includes standard sections for license and contributing, making it suitable for a GitHub repository.
+
